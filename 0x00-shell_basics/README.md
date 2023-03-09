@@ -1,4 +1,5 @@
-<div class="panel-body">
+<h1>0x00. Shell, basics</h1>
+<div>
   <p>
     <img
       src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/205/image.jpg"
@@ -284,7 +285,8 @@
     </li>
   </ul>
   
-  <h2 class="gap">Tasks</h2>
+  <h2>Tasks</h2>
+</div>
   
   0. [Where am I?](./0-current_working_directory) : A script that prints the absolute path of the current working directory.
   1. [What's in there?](./1-listit) : A script that displays the contents of your current directory.
@@ -306,5 +308,3 @@
   17. [Tree](./102-tree) A script that creates the directory `welcome/`, `welcome/to/` and `welcome/to/school`.
   18. [Life is a series of commas, not periods](./103-commas) A script that lists all the files and directories of the current directory separated by commas `,`.
   19. [File type: School](./school.mgc) Create a magic file `school.mgc` that can be used with the command `file` to detect `School` data files always contain the string `SCHOOL` at offset 0.
-  
-</div>
