@@ -1,3 +1,3 @@
 # alx-system_engineering-devops
-## Shell basics ✅
-## Shell permissions ✅
+  #### 1. Shell basics ✅
+  #### 2. Shell permissions ✅
