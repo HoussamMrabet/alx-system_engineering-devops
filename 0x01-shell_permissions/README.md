@@ -1,5 +1,5 @@
 <h1>0x01. Shell, permissions</h1>
-<div class="panel-body">
+<div>
   <h2>Resources</h2>
 
   <p><strong>Read or watch</strong>:</p>
